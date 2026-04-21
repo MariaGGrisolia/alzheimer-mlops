@@ -241,6 +241,9 @@ Para disponibilizar o modelo de forma acessível, foi desenvolvida uma aplicaç�
 - visualização do resultado com probabilidade percentual, barra de progresso e classificação de risco (baixo/moderado/alto);
 - interpretação textual do resultado.
 
+**Vídeo de demonstração:** https://drive.google.com/drive/folders/1CvNST4nBeOP1vYtOBCHs5bY2Bs0WOfFh?usp=sharing
+
+
 ### 4.4 Apresentação dos Resultados
 
 A aplicação apresenta os resultados em múltiplos níveis:
