@@ -7,8 +7,7 @@ Classe PGLLIA01C0-24-L1 - disciplina Machine Learning com Scikit-Learn e MLOps [
 # Sistema de Apoio à Decisão Clínica para Previsão de Alzheimer com Machine Learning e MLOps
 ## Da experimentação à operacionalização de modelos preditivos
 
-**Link Github:** https://github.com/MariaGGrisolia/alzheimer-ml-project
-
+**Link Github:** https://github.com/MariaGGrisolia/alzheimer-mlops
 ---
 
 ## 1. Contexto do Problema e Objetivo do Projeto
